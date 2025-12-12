@@ -132,7 +132,7 @@ It includes diagrams, explanation, advantages, limitations, and module details.
 
 **Vani Bhardwaj**  
 Roll No: RK24PRA11 
-B.Tech CSE – Operating Systems Project  
+B.Tech CSE -  Operating Systems Project  
 ---
 
 ## ⭐ If This Helped You
